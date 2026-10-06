@@ -1,0 +1,19 @@
+{
+  "name": "aura-health",
+  "version": "1.0.0",
+  "description": "Aura Health - Exceptional Primary Care & 24/7 Virtual Health Platform",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve . -p 3000",
+    "start": "npx -y serve . -p 3000"
+  },
+  "keywords": [
+    "healthcare",
+    "telehealth",
+    "primary-care",
+    "doctor",
+    "wellness"
+  ],
+  "author": "Aura Health",
+  "license": "MIT"
+}
